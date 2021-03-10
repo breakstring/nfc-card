@@ -1,0 +1,13 @@
+{
+    "markdownlint.config": {
+        "MD033": false
+    },
+    "cSpell.words": [
+        "FHKH",
+        "XQFN",
+        "instructables",
+        "nfcchip",
+        "nfctools",
+        "vcard"
+    ]
+}
